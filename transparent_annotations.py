@@ -1,9 +1,7 @@
 #Crear anotaciones transparentes en archivos PDFs
 #create transparent annotations on PDFs files
 
-
 #pip install PyMuPDF
-
 
 import fitz 
 
